@@ -1,0 +1,6 @@
+framework module Pods_LoCApp {
+  umbrella header "Pods-LoCApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
