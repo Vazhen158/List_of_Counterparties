@@ -6,4 +6,4 @@
 ![](https://github.com/Vazhen158/List_of_Counterparties/blob/master/IMG_2763.PNG.jpeg)
 ![](https://github.com/Vazhen158/List_of_Counterparties/blob/master/IMG_2764.PNG.jpeg)
 ![](https://github.com/Vazhen158/List_of_Counterparties/blob/master/IMG_2765.PNG.jpeg)
-![Image alt](https://github.com/Vazhen158/List_of_Counterparties/raw/master/image/IMG_2763.PNG.jpeg)
+![Image alt](https://github.com/Vazhen158/List_of_Counterparties/raw/master/IMG_2763.PNG.jpeg)
